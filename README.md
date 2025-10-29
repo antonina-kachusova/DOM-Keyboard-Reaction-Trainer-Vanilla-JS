@@ -44,6 +44,9 @@ This project helped reinforce how JavaScript can bring interactivity to static H
 - **HTML5** – semantic structure of a QWERTY keyboard layout
 - **CSS3** – responsive styling, flexbox layout, animations (`@keyframes`, `:hover`)
 - **Vanilla JavaScript** – DOM manipulation, event handling, game logic
+  
+## Demo
+![Demo](./demo/demo.gif)
 
 ## How It Works – Under the Hood
 1. 🔑 `data-key + dataset`
@@ -73,9 +76,7 @@ This avoids repeated DOM querying and enables fast updates to visual state `(.pr
 
 # Demo
 ![Demo](./demo/demo.gif)
-![Demo](demo/demo.gif)
-![Demo](demo.gif)
-![DOM Keyboard Reaction Trainer Vanilla JS — Demo](demo/demo.gif)
+
 
 
 
