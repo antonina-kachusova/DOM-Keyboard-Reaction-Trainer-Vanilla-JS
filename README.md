@@ -1,4 +1,5 @@
 # “DOM Keyboard Reaction Trainer Vanilla JS”
+Live Site Server: https://antonina-kachusova.github.io/DOM-Keyboard-Reaction-Trainer-Vanilla-JS/
 
 An interactive keyboard training game that tests your reaction speed and key recognition skills. This lightweight browser-based game randomly highlights (jiggles) virtual keyboard keys, prompting you to press the correct one on your physical keyboard — as fast and accurately as possible.
 
@@ -71,7 +72,9 @@ This avoids repeated DOM querying and enables fast updates to visual state `(.pr
 └── demo.gif         → Visual demo of gameplay
 
 # Demo
-
+![Demo](./demo/demo.gif)
+![Demo](demo/demo.gif)
+![Demo](demo.gif)
 ![DOM Keyboard Reaction Trainer Vanilla JS — Demo](demo/demo.gif)
 
 
