@@ -68,17 +68,12 @@ if (upperKey === currentKeyJiggle) {
 This ensures case-insensitive comparison and guarantees consistent matching regardless of whether the user has Caps Lock on or not.
 This avoids repeated DOM querying and enables fast updates to visual state `(.pressed, .jiggle)`.
 
-## Demo
-![Demo](./demo/demo.gif)
-
 ## 📁 Project Structure
 ├── index.html       → Base layout & virtual keyboard
 ├── styles.css       → Styles, responsive layout, animations
 ├── app.js           → Core game logic & interactions
 └── demo.gif         → Visual demo of gameplay
 
-# Demo
-![Demo](./demo/demo.gif)
 
 
 
